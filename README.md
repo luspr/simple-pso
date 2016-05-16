@@ -1,1 +1,1 @@
-# simple-pso
+# Simple Particle Swarm Ooptimization
